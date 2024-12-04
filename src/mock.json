@@ -1,0 +1,85 @@
+{
+  "shopName": "Tech & Tools Store",
+  "items": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 25.99,
+      "stock": 0,
+      "description": "A sleek and ergonomic wireless mouse with USB connectivity."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 0,
+      "description": "A durable keyboard with customizable RGB lighting."
+    },
+    {
+      "id": 3,
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "price": 39.99,
+      "stock": 0,
+      "description": "An adjustable aluminum stand for laptops up to 15 inches."
+    },
+    {
+      "id": 4,
+      "name": "Noise Cancelling Headphones",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 0,
+      "description": "Over-ear headphones with active noise cancellation technology."
+    },
+    {
+      "id": 5,
+      "name": "USB-C Hub",
+      "category": "Accessories",
+      "price": 49.99,
+      "stock": 0,
+      "description": "A multi-port hub with HDMI, USB 3.0, and SD card reader."
+    },
+    {
+      "id": 6,
+      "name": "Smartphone Case",
+      "category": "Accessories",
+      "price": 19.99,
+      "stock": 0,
+      "description": "A shock-absorbing case compatible with various smartphone models."
+    },
+    {
+      "id": 7,
+      "name": "Portable SSD",
+      "category": "Electronics",
+      "price": 119.99,
+      "stock": 0,
+      "description": "A 1TB portable SSD with fast transfer speeds and durability."
+    },
+    {
+      "id": 8,
+      "name": "LED Desk Lamp",
+      "category": "Home",
+      "price": 34.99,
+      "stock": 0,
+      "description": "A touch-controlled LED desk lamp with adjustable brightness levels."
+    },
+    {
+      "id": 9,
+      "name": "Fitness Tracker",
+      "category": "Wearable",
+      "price": 59.99,
+      "stock": 0,
+      "description": "A lightweight fitness tracker with heart rate monitoring and GPS."
+    },
+    {
+      "id": 10,
+      "name": "Gaming Chair",
+      "category": "Furniture",
+      "price": 199.99,
+      "stock": 0,
+      "description": "An ergonomic gaming chair with adjustable height and lumbar support."
+    }
+  ]
+}
